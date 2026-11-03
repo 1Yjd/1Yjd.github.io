@@ -7,16 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in the **Department of Artificial Intelligence, School of Informatics, Xiamen University**, and a member of the **Media Analytics & Computing Laboratory (MAC)**.
+I am a master's student in the **Department of Artificial Intelligence, School of Informatics, Xiamen University**, majoring in **Computer Science and Technology**. I am a member of the **Media Analytics & Computing Laboratory (MAC)**.
 
-I received my bachelor's degree from the **School of Artificial Intelligence and Data Science, Hebei University of Technology**.
+I received my B.Eng. in **Data Science and Big Data Technology** from the **School of Artificial Intelligence and Data Science, Hebei University of Technology**.
 
 My research focuses on the personalization of large models.
 
+## Publications
+
+To be updated.
+
 ## Education
 
-- **Xiamen University** — Master's degree (in progress), **2026–Present**  
-  Department of Artificial Intelligence, School of Informatics  
-  Media Analytics & Computing Laboratory (MAC)
-- **Hebei University of Technology** — Bachelor's degree, **2022–2026**  
-  School of Artificial Intelligence and Data Science
+- *2026.09 – Present*, M.Eng. in Computer Science and Technology (in progress), **Xiamen University**, Xiamen, China.  
+  Department of Artificial Intelligence, School of Informatics; Media Analytics & Computing Laboratory (MAC).
+- *2022.09 – 2026.07*, B.Eng. in Data Science and Big Data Technology, **Hebei University of Technology**, Tianjin, China.  
+  School of Artificial Intelligence and Data Science.
+
+## Internships
+
+To be updated.
