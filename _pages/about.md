@@ -15,8 +15,8 @@ My research focuses on the personalization of large models.
 
 ## Education
 
-- **Xiamen University** — Master's studies  
+- **Xiamen University** — Master's studies, **2026–Present**  
   Department of Artificial Intelligence, School of Informatics  
   Media Analytics & Computing Laboratory (MAC)
-- **Hebei University of Technology** — Undergraduate studies  
+- **Hebei University of Technology** — Undergraduate studies, **2022–2026**  
   School of Artificial Intelligence and Data Science
