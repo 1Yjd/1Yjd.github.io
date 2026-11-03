@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Yuan Jingdong / Personal HomePage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Yuan Jingdong"
+description              : &description "Yuan Jingdong, a Master's student in the Department of Artificial Intelligence, School of Informatics, Xiamen University, and a member of the Media Analytics & Computing Laboratory (MAC)."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://1yjd.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "picture.png"
   name             : "Yuan Jingdong"
   pronouns         : "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "China ShanXi"
-  employer         : "Hebei University of Technology University"
+  bio              : "Master's student, Department of Artificial Intelligence, School of Informatics"
+  location         : "Xiamen, China"
+  employer         : "Xiamen University"
   uri              : # URL
   email            : "jdyuan0309@163.com" 
 
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "academicpages"
+  github           : "1Yjd"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
